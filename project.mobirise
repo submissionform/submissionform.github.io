@@ -39,7 +39,7 @@
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/schermata-2019-04-03-alle-16.09.39-22x18.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "siteUrl": "",
     "google-analytics": "",
     "screenshot": "screenshot.png",
