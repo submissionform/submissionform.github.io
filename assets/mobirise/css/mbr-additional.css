@@ -1462,13 +1462,13 @@ body {
   line-height: 44px;
 }
 .cid-rpYEIuJPCK .btn-social {
-  border-color: #149dcc;
+  border-color: #ffffff;
 }
 .cid-rpYEIuJPCK .btn-social:hover {
-  background: #149dcc;
+  background: #ffffff;
 }
 .cid-rpYEIuJPCK .btn-social:hover i.socicon {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 @media (max-width: 767px) {
   .cid-rpYEIuJPCK .btn {
