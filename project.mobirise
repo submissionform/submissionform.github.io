@@ -162,7 +162,9 @@
               "border": "1px solid #ced4da",
               "border-radius": "0px !important",
               "font-weight": "300",
-              "font-size": "23px"
+              "font-size": "23px",
+              "max-height": "3em",
+              "min-height": "2.5em"
             },
             ".mbr-section form1": {
               "-webkit-font-smoothing": "antialiased",

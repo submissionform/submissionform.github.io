@@ -1443,6 +1443,8 @@ body {
   border-radius: 0px !important;
   font-weight: 300;
   font-size: 23px;
+  max-height: 3em;
+  min-height: 2.5em;
 }
 .cid-qRF03udd3v .mbr-section form1 {
   -webkit-font-smoothing: antialiased;
