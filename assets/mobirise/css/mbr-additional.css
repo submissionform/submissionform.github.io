@@ -1418,9 +1418,18 @@ body {
 .cid-qRF03udd3v .input-group-btn {
   display: block;
   text-align: center;
-  padding-bottom: 50px;
+  font-size: 25px;
   border-radius: 0px !important;
   background: #fff !important;
+}
+@media screen and (max-width: 640px) {
+  .cid-qRF03udd3v .input-group-btn {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 0px !important;
+    background: #fff !important;
+  }
 }
 .cid-qRF03udd3v H2 {
   color: #232323;
