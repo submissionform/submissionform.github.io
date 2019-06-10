@@ -1406,10 +1406,11 @@ body {
   max-width: 100%;
 }
 .cid-qRF03udd3v .input-group-btn {
+  border-radius: 0px !important;
+  padding: 1rem 3rem;
   display: block;
   text-align: center;
   font-size: 5px;
-  border-radius: 0px !important;
   background: #fff !important;
 }
 .cid-qRF03udd3v H2 {
@@ -1443,7 +1444,7 @@ body {
 }
 @media (max-width: 767px) {
   .cid-qRF03udd3v .btn {
-    font-size: 1.5rem !important;
+    font-size: 1.4rem !important;
   }
   .cid-qRF03udd3v .btn .mbr-iconfont {
     font-size: 1rem !important;
@@ -1451,7 +1452,7 @@ body {
 }
 .cid-qRF03udd3v .display-7 {
   font-family: 'Oswald', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .cid-rpYEIuJPCK {
   padding-top: 90px;
